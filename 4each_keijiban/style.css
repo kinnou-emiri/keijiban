@@ -1,0 +1,114 @@
+header{
+    width: 100%;
+}
+
+.logo img{
+    width: 250px;
+}
+
+header ul{
+    list-style-type: none;    
+    background-color: black;
+    height: 50px;
+    line-height: 60px;      
+}
+
+header ul li{
+    color: white;
+    float: left;
+    padding: 0px 40px;
+}
+
+main{
+    clear: left;
+    width: 100%;
+}
+
+.left{
+    width: 70%;
+    float: left;
+}
+
+.left h1{
+    border-left: 7px black solid;
+    border-bottom: 5px darkgray solid;
+    padding-left: 10px;
+}
+
+.toukou{
+    width: 100%;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb  solid;
+    margin-bottom: 20px;
+    padding: 10px 10px;
+}
+
+.toukou h2{
+    margin-left: 10px;
+    border-left: 5px red solid;
+    font-size: 25px;
+}
+
+.toukou div{
+    padding: 10px;
+}
+
+.toukou .button{
+    border: 3px lightgray solid;
+    border-bottom: 5px gray solid;
+    background-color: darkgray;
+    border-radius: 5px;
+    color: white;
+    padding: 4px 10px;
+    margin-bottom: 20px;
+}
+
+.kiji{    
+    margin-bottom: 15px;
+    padding: 10px 10px;
+    background-color: #fbfbfb;
+    color: black;
+    border: 3px #ebebeb  solid;
+    width: 100%;
+}
+
+.kiji h3{
+    font-size: 20px;
+    border-bottom: 2px #ebebeb solid;
+}
+
+.contents{
+    margin: 5px;
+    padding-bottom: 5px;
+}
+
+.handlename{
+    font-size: 13px;
+}
+
+.right{
+    width: 25%;
+    float: left;
+    padding-left: 40px;
+}
+
+.right h3{
+    margin-top: 45px;
+    border-bottom: 2px black dotted;
+}
+
+.right li{
+    list-style-type: none;
+    }
+
+
+
+footer{
+        clear: left;
+        width: 100%;
+        height: 50px;
+        background-color: black;
+        color: white;
+        text-align: center;
+        line-height: 50px;
+}
